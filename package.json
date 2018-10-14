@@ -1,0 +1,28 @@
+{
+  "name": "duyar",
+  "version": "0.1.0",
+  "description": "Duyar is an intelligent assistant for Bogazici University students wishing to know their balances, grades and even the menu of the day.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ubaranzorlu/duyar.git"
+  },
+  "keywords": [
+    "duyar",
+    "bogazici",
+    "boun",
+    "buddy",
+    "google",
+    "assistant",
+    "assistant"
+  ],
+  "author": "UBZ <umut@baranzorlu.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ubaranzorlu/duyar/issues"
+  },
+  "homepage": "https://github.com/ubaranzorlu/duyar#readme"
+}
